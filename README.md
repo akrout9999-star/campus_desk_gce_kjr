@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/akrout9999-star/campus_desk_gce_kjr/main/public/gcekjr-logo-whitebg.png" alt="GCE Keonjhar Logo" width="110"/>
 
-# 🎓 CampusDesk — GCE Keonjhar
+# 🎓 CampusDesk - GCE Keonjhar
 
 ### A Role-Based College Management Web Application
 
